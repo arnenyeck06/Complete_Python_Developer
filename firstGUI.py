@@ -22,4 +22,4 @@ def tree():
         print(' ')
 tree()
 
-tree() * 4
+tree()
