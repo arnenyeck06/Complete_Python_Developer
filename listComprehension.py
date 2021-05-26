@@ -12,3 +12,7 @@ print(my_list4)
 # set Comprehension
 my_list5 = {num**2 for num in range(0, 100)}
 print(my_list5)
+
+
+my_dict = {num: num*2 for num in [1, 2, 3]}
+print(my_dict)
